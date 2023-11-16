@@ -119,9 +119,10 @@ body{
     
     padding: 200px;
     background-image: url('../images/woman-code.png');
-    background-size: 1470px;
+    background-size: 2000px;
     background-position: left;
     background-attachment: fixed;
+    background-repeat: no-repeat;
 }
 #transform-world p{
     width: 250px;
